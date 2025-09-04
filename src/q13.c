@@ -9,6 +9,6 @@ int main() {
         }
         i++;
     }
-    printf("The sum of all even numbers from 1 to 50 is: %d\n", sum);
+    printf("%d\n", sum);
     return 0;
 }
